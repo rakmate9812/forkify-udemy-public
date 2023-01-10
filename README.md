@@ -1,4 +1,5 @@
-# fokify-udemy-public
-My fokify project based on Jonas Schmedtmann's Udemy course. 
+# forkify-udemy-public
 
-This is a repository containing the code for the famous forkify app I made based on Jonas's Udemy course videos. Only for learning and practicing purposes.
+My forkify project based on Jonas Schmedtmann's Udemy course.
+
+This is a repository containing the code for the famous forkify app I made along with Jonas's Udemy course videos. Only for learning and practicing purposes.
