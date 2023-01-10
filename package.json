@@ -1,10 +1,10 @@
 {
   "name": "forkify",
   "version": "1.0.0",
-  "description": "recipe app gyakorlas",
+  "description": "recipe app",
   "scripts": {
     "start": "parcel --open chrome index.html",
-    "build": "parcel build index.html --dist-dir finalDist"
+    "build": "parcel build index.html --dist-dir finalDist --no-scope-hoist"
   },
   "author": "",
   "license": "ISC",
